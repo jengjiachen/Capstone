@@ -14,9 +14,6 @@ Prototype:  An illustrated timeline of major events and legislations regarding A
 - Timeline in IG stories, IG posts (more shareable), printable pamphlet, scrollable PDF/website
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
