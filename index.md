@@ -1,7 +1,18 @@
-## Jiajia's TItle
-Llamas are fun(https://github.com/jengjiachen/pagestest1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Not Your Model Minority
+### A 1 sentence HOOK
+Asians are not a model minority: A dive into the visible and invisible moments for the Asian community in the context of the United States.
+### Description 
+For my capstone project, I am interested in exploring racial tensions, unconscious bias, and what it means to be a minority in America. Asians are often referred to as “model minorities”, which comes with certain assumptions that should be challenged, as well as privileges that are not to be ignored.
+With the current climate, I have been reevaluating my position as a minority and legal alien. Previously, I have been shielding myself as someone powerless to drive change. Today, I am beginning to challenge this notion. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Problem Statement
+Asian American history is often overlooked and forgotten. As a member of the Asian community, I did not learn about events such as the Chinese Exclusion Act until I attended a specific course pertaining to AAPI History. Asian folk of the older generation are also largely unaware of these events. With the current climate of Anti-Asian hate, it is more important than ever to educate ourselves with relevant historical context. 
+Prototype:  An illustrated timeline of major events and legislations regarding Asian Americans. Possible formats include website, print, PDF, social media posts and stories.
+### Total Project Deliverable Summary
+- Timeline of significant events in US history that are relevant to the Asian community ( Chinese Exclusion Act, Japanese Internment Camps, Construction of ChinaTowns, The LA Riots)
+- Timeline of Notable people in the Asian community that are often lost to history.
+- Timeline in IG stories, IG posts (more shareable), printable pamphlet, scrollable PDF/website
+
 
 ### Markdown
 
