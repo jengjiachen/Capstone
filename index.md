@@ -14,11 +14,11 @@ Prototype:  An illustrated timeline of major events and legislations regarding A
 - Timeline in IG stories, IG posts (more shareable), printable pamphlet, scrollable PDF/website
 
 ### Research
-[History.com: Asian American Timeline](https://www.history.com/topics/immigration/asian-american-timeline)
-[Time.com: AAPI History Milestones](https://time.com/5956943/aapi-history-milestones/)
-[NYTimes: The Fight to Teach Asian American History](https://www.nytimes.com/2021/06/02/us/asian-american-history.html)
-[Ancestors in the Americas: Timeline](http://www.cetel.org/timeline.html)
-[Stop AAPI Hate](https://stopaapihate.org/national-report-through-march-2021/)
+- [History.com: Asian American Timeline](https://www.history.com/topics/immigration/asian-american-timeline)
+- [Time.com: AAPI History Milestones](https://time.com/5956943/aapi-history-milestones/)
+- [NYTimes: The Fight to Teach Asian American History](https://www.nytimes.com/2021/06/02/us/asian-american-history.html)
+- [Ancestors in the Americas: Timeline](http://www.cetel.org/timeline.html)
+- [Stop AAPI Hate](https://stopaapihate.org/national-report-through-march-2021/)
 
 
 ```markdown
