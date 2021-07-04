@@ -19,6 +19,9 @@ Prototype:  An illustrated timeline of major events and legislations regarding A
 - [Ancestors in the Americas: Timeline](http://www.cetel.org/timeline.html)
 - [Stop AAPI Hate](https://stopaapihate.org/national-report-through-march-2021/)
 
+### Daniel Inouye
+Daniel Ken Inouye (September 7, 1924 – December 17, 2012) was a United States Senator from Hawaii from 1963 until his death in 2012. He was third in line of presidential line succession from 2010 until his death, making him the highest-ranking Asian-American politician in U.S. history at the time. Inouye was a decorated war hero of WWII, receiving a Medal of Honor, the highest military award. Inouye never lost an election in 58 years as an elected official, and he exercised an exceptionally large influence on Hawaii politics.
+
 
 ```markdown
 Syntax highlighted code block
