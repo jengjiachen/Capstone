@@ -1,7 +1,8 @@
 # Not Your Model Minority
 ### Asians are not a model minority: A dive into the visible and invisible moments for the Asian community in the context of the United States.
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/8bc4a1123983585.60fbbedae67b7.png)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/fd6cf1123983585.60fc6a9a94615.png)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/ea077f123983585.60fc6a9a950a7.png)
 
 ## Description 
 For my capstone project, I am interested in exploring racial tensions, unconscious bias, and what it means to be a minority in America. Asians are often referred to as “model minorities”, which comes with certain assumptions that should be challenged, as well as privileges that are not to be ignored.
@@ -26,31 +27,6 @@ Prototype:  An illustrated timeline of major events and legislations regarding A
 Daniel Ken Inouye (September 7, 1924 – December 17, 2012) was a United States Senator from Hawaii from 1963 until his death in 2012. He was third in line of presidential line succession from 2010 until his death, making him the highest-ranking Asian-American politician in U.S. history at the time. Inouye was a decorated war hero of WWII, receiving a Medal of Honor, the highest military award. Inouye never lost an election in 58 years as an elected official, and he exercised an exceptionally large influence on Hawaii politics.
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jengjiachen/pagestest1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-```
 
 
