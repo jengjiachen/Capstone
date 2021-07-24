@@ -1,8 +1,9 @@
 # Not Your Model Minority
 ### Asians are not a model minority: A dive into the visible and invisible moments for the Asian community in the context of the United States.
 
-![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/fd6cf1123983585.60fc6a9a94615.png)
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/ea077f123983585.60fc6a9a950a7.png)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/fd6cf1123983585.60fc6a9a94615.png)
+
 
 ## Description 
 For my capstone project, I am interested in exploring racial tensions, unconscious bias, and what it means to be a minority in America. Asians are often referred to as “model minorities”, which comes with certain assumptions that should be challenged, as well as privileges that are not to be ignored.
