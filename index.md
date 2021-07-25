@@ -1,6 +1,6 @@
 # Not Your Model Minority
 ### Asians are not a model minority: A dive into the visible and invisible moments for the Asian community in the context of the United States.
-![Image](blob:https://www.behance.net/94983607-3efe-49bd-8b7d-ba5009879a24)
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/7d1b05123983585.60fdc00540537.png)
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/ea077f123983585.60fc6a9a950a7.png)
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/fd6cf1123983585.60fc6a9a94615.png)
 
