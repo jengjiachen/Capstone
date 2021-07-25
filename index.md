@@ -1,6 +1,6 @@
 # Not Your Model Minority
 ### Asians are not a model minority: A dive into the visible and invisible moments for the Asian community in the context of the United States.
-
+![Image](blob:https://www.behance.net/94983607-3efe-49bd-8b7d-ba5009879a24)
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/ea077f123983585.60fc6a9a950a7.png)
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/fd6cf1123983585.60fc6a9a94615.png)
 
@@ -25,9 +25,23 @@ Prototype:  An illustrated timeline of major events and legislations regarding A
 - [Stop AAPI Hate](https://stopaapihate.org/national-report-through-march-2021/)
 - [130 Inspiring Asian Americans](https://goldsea.com/Personalities/Inspiring/inspiring.html)
 
+### I.M.Pei 
+1917–2019 Chinese-American architect with a career spanning 70 years, and known for his masterpieces including Le Grand Louvre and Kennedy Library.
+
+### Sammy Lee
+In 1948, two decades before anyone knew what an Asian American was, a Korean American army doctor brought home a gold medal in platform diving from London. Four years later, he came home from Helsinki with another. He coached the U.S. diving team for the 1960 and 64 Olympics.
+
 ### Daniel Inouye
 Daniel Ken Inouye (September 7, 1924 – December 17, 2012) was a United States Senator from Hawaii from 1963 until his death in 2012. He was third in line of presidential line succession from 2010 until his death, making him the highest-ranking Asian-American politician in U.S. history at the time. Inouye was a decorated war hero of WWII, receiving a Medal of Honor, the highest military award. Inouye never lost an election in 58 years as an elected official, and he exercised an exceptionally large influence on Hawaii politics.
 
+### Patsy Mink 
+1927 – 2002 as the first non-white woman to serve in Congress, Japanese American Mink became a passionate and tireless advocate on behalf of women and disadvantaged minorites. She led the push for passage of Title IX in 1972 to ensure that girls have the same athletic opportunities as boys.
+
+### GaryLocke 
+1950- Former Governor of Washington, United States Secretary of Commerce, and United States Ambassador to China.
+
+### Maya Lin 
+1959- Maya Ying Lin is an American designer and sculptor. In 1981, while an undergraduate at Yale University, she achieved national recognition when she won a national design competition for the planned Vietnam Veterans Memorial
 
 
 
